@@ -1,1 +1,1 @@
-# calculo_notas
+# Cálculo de notas - UFAM
